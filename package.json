@@ -1,0 +1,8 @@
+{
+  "name": "tcc-cli-test",
+  "version": "1.0.0",
+  "description": "just a test project",
+  "author": "Philipp Burgmer",
+  "license": "ISC",
+  "private": true
+}
